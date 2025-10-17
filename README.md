@@ -8,3 +8,5 @@ The project is developed by applying the principles of Object-Oriented Programmi
 
 ### Workshops delivered
 - [Workshop 1 - Project definition, requirements and conceptual design](./Workshops/Workshop-1.pdf)
+- [Workshop 2](./Workshops/Workshop-2.pdf)
+
