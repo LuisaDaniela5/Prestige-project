@@ -25,8 +25,8 @@ The documents created are:
 
 - [Technical Report:](./Documentation/Technical_Report_F) Describes in detail the architecture, UML diagrams, object-oriented design, and technical decisions made during development.
 
-- [Poster:] () Visually summarizes the most relevant elements of the project, including objectives, methodology, and conclusions.
+- [Poster:] (./Documentation/Poster_F.pdf) Visually summarizes the most relevant elements of the project, including objectives, methodology, and conclusions.
 
-- [Slides:] () Presentation used to showcase the project, highlighting the most important points clearly and concisely.
+- [Slides:] (./Documentation/Slides_F.pdf) Presentation used to showcase the project, highlighting the most important points clearly and concisely.
 
 These documents are included in this repository to provide a comprehensive view of both the development process and the final product.
