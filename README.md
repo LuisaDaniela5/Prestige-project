@@ -15,7 +15,7 @@ The project is developed by applying the principles of Object-Oriented Programmi
   Right here in the main part of the repository is a "prestige-javafx-gui.zip" file containing the code for the JavaFX GUI mentioned in Workshop 4. This file can be downloaded and    opened directly in VS Code.
   - [GUI pretige project](./prestige-javafx-gui.zip)
 
-##Project Documentation
+## Project Documentation
 
 For the development of this project, several documents were created to record the operation, design, and implementation of the Prestige Events & Receptions application. Each document presents the project from both a conceptual and technical perspective.
 
