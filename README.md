@@ -21,9 +21,9 @@ For the development of this project, several documents were created to record th
 
 The documents created are:
 
-- [Paper:] (./Documentation/Paper_F.pdf) Presents an overview of the problem, the proposed solution, and the project results from an academic perspective.
+- [Paper:](./Documentation/Paper_F.pdf) Presents an overview of the problem, the proposed solution, and the project results from an academic perspective.
 
-- [Technical Report:] (./Documentation/Technical_Report_F) Describes in detail the architecture, UML diagrams, object-oriented design, and technical decisions made during development.
+- [Technical Report:](./Documentation/Technical_Report_F) Describes in detail the architecture, UML diagrams, object-oriented design, and technical decisions made during development.
 
 - [Poster:] () Visually summarizes the most relevant elements of the project, including objectives, methodology, and conclusions.
 
